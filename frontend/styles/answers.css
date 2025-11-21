@@ -1,0 +1,75 @@
+.answers {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+
+.answers__pre-title {
+    color: #6933DC;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.answers__progressbar {
+    margin-top: 60px;
+    margin-bottom: 80px;
+    display: flex;
+}
+
+.answers__progressbar-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.answers_pre-title-block {
+    display: flex;
+}
+
+.answers_pre-text {
+    color: #DCDCF3;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.answers_pre-text img {
+   margin-left: 15px;
+   margin-right: 15px;
+}
+
+.answers_pre-title-block {
+    margin-bottom: 60px;
+}
+
+.answers__title {
+    margin: 0 auto;
+    text-align: center;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    display: flex;
+    padding-bottom: 60px;
+}
+
+.answers__title span {
+    color: #6933DC;
+    padding-right: 12px;
+
+}
+.answers__question-title {
+    font-family: "Museo Sans Cyrl Bold", sans-serif;
+    font-size: 36px;
+    line-height: 43px;
+}
+
+input[style*="--hide-dot"]::before {
+    display: none;
+}
+
+

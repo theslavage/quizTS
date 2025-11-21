@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="669cef04-ce35-43f8-842b-6826ca3bd8b7" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2vo4fPsYZW4nfCyybwHD8XqNao2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/twin9/Documents/Frontend/quizInTS",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\twin9\\Documents\\Frontend\\quizInTS\\frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\twin9\Documents\Frontend\quizInTS\frontend\src\types" />
+      <recent name="C:\Users\twin9\Documents\Frontend\quiz\frontend\static\images" />
+      <recent name="C:\Users\twin9\Documents\Frontend\quiz\frontend\templates" />
+      <recent name="C:\Users\twin9\Documents\Frontend\quiz\backend" />
+      <recent name="C:\Users\twin9\Documents\Frontend\quiz\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\twin9\Documents\Frontend\quiz\frontend" />
+      <recent name="C:\Users\twin9\Documents\Frontend\quiz\src\components" />
+      <recent name="C:\Users\twin9\Documents\Frontend\quiz\static" />
+      <recent name="C:\Users\twin9\Documents\Frontend\quiz\templates" />
+      <recent name="C:\Users\twin9\Documents\Frontend\quiz\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="669cef04-ce35-43f8-842b-6826ca3bd8b7" name="Changes" comment="" />
+      <created>1744798195611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744798195611</updated>
+      <workItem from="1744798196709" duration="4117000" />
+      <workItem from="1744805830314" duration="4644000" />
+      <workItem from="1744884719859" duration="18736000" />
+      <workItem from="1744989664114" duration="5160000" />
+      <workItem from="1745000834378" duration="6575000" />
+      <workItem from="1745052155603" duration="1224000" />
+      <workItem from="1745061775708" duration="9987000" />
+      <workItem from="1745139956687" duration="5933000" />
+      <workItem from="1745234419707" duration="8072000" />
+      <workItem from="1745243924864" duration="10345000" />
+      <workItem from="1745309360576" duration="2000" />
+      <workItem from="1745323615414" duration="7038000" />
+      <workItem from="1745330753079" duration="8700000" />
+      <workItem from="1745403368961" duration="3712000" />
+      <workItem from="1745410975376" duration="573000" />
+      <workItem from="1745484002248" duration="287000" />
+      <workItem from="1745580442524" duration="26000" />
+      <workItem from="1745580697620" duration="3817000" />
+      <workItem from="1745695653059" duration="910000" />
+      <workItem from="1745750010584" duration="14000" />
+      <workItem from="1745933214386" duration="5550000" />
+      <workItem from="1745943061777" duration="9741000" />
+      <workItem from="1746090469452" duration="1739000" />
+      <workItem from="1746092488813" duration="6537000" />
+      <workItem from="1746101226337" duration="50000" />
+      <workItem from="1746268929018" duration="3321000" />
+      <workItem from="1746272924173" duration="5556000" />
+      <workItem from="1746628551898" duration="34000" />
+      <workItem from="1746793593914" duration="24000" />
+      <workItem from="1746793758031" duration="56000" />
+      <workItem from="1746868103668" duration="167000" />
+      <workItem from="1746871889019" duration="887000" />
+      <workItem from="1747825663234" duration="8707000" />
+      <workItem from="1748005946169" duration="8195000" />
+      <workItem from="1748014747281" duration="135000" />
+      <workItem from="1748084384016" duration="15345000" />
+      <workItem from="1748247234273" duration="7331000" />
+      <workItem from="1748257391526" duration="684000" />
+      <workItem from="1748426444925" duration="217000" />
+      <workItem from="1748427019109" duration="63000" />
+      <workItem from="1748440601439" duration="5032000" />
+      <workItem from="1748511538875" duration="2404000" />
+      <workItem from="1748688489939" duration="3171000" />
+      <workItem from="1748693750481" duration="18000" />
+      <workItem from="1748693818444" duration="95000" />
+      <workItem from="1748694267465" duration="1976000" />
+      <workItem from="1748777673103" duration="439000" />
+      <workItem from="1748779873898" duration="1878000" />
+      <workItem from="1753616415756" duration="3232000" />
+      <workItem from="1753620611764" duration="1477000" />
+      <workItem from="1753625152887" duration="12986000" />
+      <workItem from="1753702218779" duration="3789000" />
+      <workItem from="1753718864337" duration="377000" />
+      <workItem from="1753719258040" duration="31000" />
+      <workItem from="1753719308655" duration="1534000" />
+      <workItem from="1753723420939" duration="4371000" />
+      <workItem from="1753971587876" duration="2318000" />
+      <workItem from="1754309396280" duration="1857000" />
+      <workItem from="1754311305231" duration="70000" />
+      <workItem from="1754311388882" duration="3664000" />
+      <workItem from="1754416567597" duration="166000" />
+      <workItem from="1754500236745" duration="158000" />
+      <workItem from="1754559878500" duration="1712000" />
+      <workItem from="1754672050874" duration="11000" />
+      <workItem from="1754923178548" duration="1894000" />
+      <workItem from="1754933037221" duration="896000" />
+      <workItem from="1756889266865" duration="94000" />
+      <workItem from="1756889378019" duration="9819000" />
+      <workItem from="1756909591142" duration="677000" />
+      <workItem from="1757080300062" duration="6641000" />
+      <workItem from="1757344577472" duration="1572000" />
+      <workItem from="1757588837661" duration="16792000" />
+      <workItem from="1757607127965" duration="32000" />
+      <workItem from="1757612157650" duration="358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/backend/controllers/test.controller.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

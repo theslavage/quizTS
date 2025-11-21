@@ -1,0 +1,32 @@
+
+.main {
+    padding-top: 190px;
+    padding-bottom: 231px;
+}
+
+.main .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main__content {
+    max-width: 588px;
+}
+
+
+.main__content-description {
+    font-size: 20px;
+    font-style: normal;
+    line-height: normal;
+    margin-top: 40px;
+    max-width: 480px;
+}
+
+.main__content-button {
+    margin-top: 60px;
+}
+
+
+
+

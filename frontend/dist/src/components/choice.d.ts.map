@@ -1,0 +1,1 @@
+{"version":3,"file":"choice.d.ts","sourceRoot":"","sources":["../../../src/components/choice.ts"],"names":[],"mappings":"AASA,qBAAa,MAAM;IACf,OAAO,CAAC,OAAO,CAAsB;IACrC,OAAO,CAAC,UAAU,CAAiC;IACnD,OAAO,CAAC,WAAW,CAAkB;;YAQvB,IAAI;IAkClB,OAAO,CAAC,cAAc;IA8CtB,OAAO,CAAC,UAAU;CAMrB"}
