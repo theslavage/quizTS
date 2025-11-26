@@ -14,7 +14,7 @@
 
 📦 Установка проекта
 1. Клонировать репозиторий
-- git clone https://github.com/<your-username>/quizTS.git
+- git clone https://github.com/theslavage/quizTS.git
  - cd quizTS
 
 2. Установить зависимости
